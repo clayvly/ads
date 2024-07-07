@@ -1,0 +1,61 @@
+{
+    "overview": {
+        "spendingLimit": "200.000.000",
+        "spended": "190.000.000",
+        "lastWeekSpend": "20.000.000",
+        "lastWeekSpendFormat": "20.0"
+    },
+    "profile": {
+        "id": "558809126100000",
+        "name": "Profile's Name",
+        "balance": "10.000.000",
+        "images": "https://1.bp.blogspot.com/-SERVvSqqa28/VJ9sWMs96VI/AAAAAAAAat4/sOrQC36VLJI/s1600/koleksi-foto-lucu-jokowi-17.jpg"
+    },
+    "billings": [
+        {
+            "id": "1",
+            "date": "1 Jul 2024",
+            "totals": "1.000.000",
+            "method": "Saldo Prabayar",
+            "type": "<img src=\"https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/iIynObmArSL.png?_nc_eui2=AeHlo2Pu-G1c_67tr8odyTp0MMad-2QUnI0wxp37ZBScjUkPapCduHk8I1QuKpZAOTVaLgZl2Z2cP8B7EqKygdia\" alt=\"\" class=\"img\">",
+            "status": "Lunas",
+            "id_tax": "TAX"
+        },
+        {
+            "id": "2",
+            "date": "1 Jun 2024",
+            "totals": "2.000.000",
+            "method": "Kredit Iklan",
+            "type": "<img src=\"https://static.xx.fbcdn.net/rsrc.php/v3/yb/r/3HCnm0723Yw.png?_nc_eui2=AeHIkRj7HlX9o5mpriE7un5ouKj6g_yzpry4qPqD_LOmvL1RCqKpj8OJUbE4FFtEp_HmVYhak6IVT00i2j2ylIxz\" alt=\"\" class=\"img\">",
+            "status": "Lunas",
+            "id_tax": ""
+        },
+        {
+            "id": "3",
+            "date": "5 Jun 2024",
+            "totals": "1.500.000",
+            "method": "Pembayaran Manual",
+            "type": "",
+            "status": "Didanai",
+            "id_tax": ""
+        }
+    ],
+    "ads": [
+        {
+            "enabled": true,
+            "adsImg": "https://1.bp.blogspot.com/-SERVvSqqa28/VJ9sWMs96VI/AAAAAAAAat4/sOrQC36VLJI/s1600/koleksi-foto-lucu-jokowi-17.jpg",
+            "adsTitle": "03/07/2024",
+            "result": "10.000",
+            "costPerResult": "1.000",
+            "status": true
+        },
+        {
+            "enabled": true,
+            "adsImg": "https://1.bp.blogspot.com/-SERVvSqqa28/VJ9sWMs96VI/AAAAAAAAat4/sOrQC36VLJI/s1600/koleksi-foto-lucu-jokowi-17.jpg",
+            "adsTitle": "05/07/2024",
+            "result": "5.000",
+            "costPerResult": "1.500",
+            "status": false
+        }
+    ]
+}
